@@ -1,5 +1,5 @@
 ### Case Resolution stages
-![](raw/f71f5e20-c469-4cb7-b89f-872df557b34a.png)
+![](./md_assets/attachments/f71f5e20-c469-4cb7-b89f-872df557b34a.png)
 
 ### Terms
 ##### Case

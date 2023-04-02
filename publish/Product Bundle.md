@@ -7,4 +7,4 @@ Helps in defining product relationships
 - Substitutes
 
 ### Product Family vs Product Bundle
-![](raw/b340d57b-ff21-4e22-80bd-f5f049678189.png)
+![](./md_assets/attachments/b340d57b-ff21-4e22-80bd-f5f049678189.png)

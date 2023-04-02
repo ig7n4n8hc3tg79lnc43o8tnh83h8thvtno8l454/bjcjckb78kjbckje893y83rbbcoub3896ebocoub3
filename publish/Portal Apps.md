@@ -21,5 +21,5 @@ provides inline editing for portal apps
 ##### Web Link Sets
 group of links such as a primary navigation or a group of footer links
 
-![](raw/Pasted%20image%2020230106201025.png)
+![](./md_assets/attachments/Pasted%20image%2020230106201025.png)
 

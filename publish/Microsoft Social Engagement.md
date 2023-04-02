@@ -1,6 +1,6 @@
 Automate social media engagement
 
-![](raw/Pasted%20image%2020221225082931.png)
+![](./md_assets/attachments/Pasted%20image%2020221225082931.png)
 
 ### Sources
 - Blogs (keyword rules)
