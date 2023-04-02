@@ -1,0 +1,1 @@
+Technicians collaborate more efficiently by working together from different locations

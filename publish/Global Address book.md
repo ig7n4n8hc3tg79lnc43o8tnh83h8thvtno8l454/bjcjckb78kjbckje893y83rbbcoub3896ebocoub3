@@ -1,0 +1,1 @@
+Centralized repository to store all persons and organizations that company interacts with
